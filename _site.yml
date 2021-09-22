@@ -1,5 +1,6 @@
 name: "personal-website-catalina-medina"
-output_dir: "https://catalinamedina.github.io/"
+title: "My Website"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
