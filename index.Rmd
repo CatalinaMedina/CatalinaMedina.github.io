@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("images/my-picture.JPG")
 ```
 
-catalmm1@uci.edu  
+email: catalmm1@uci.edu  
+github: CatalinaMedina  
 Statitics PhD Student  
 University of California, Irvine  
