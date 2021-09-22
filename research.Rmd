@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Current projects  
+- Methodological work: quantifying and mitigating the impact of reporting delay of genetic sequences in phylodynamic analyses.  
+- Application work: geostatistical exploration of factors related to Aedes mosquito exposure among Cambodian children.
+
+
+# Publications
+- Parker DM, Bruckner T, Vieira VM, Medina C, Minin VN, Felgner PL, et al. Epidemiology of the early COVID-19 epidemic, Orange County, California, USA. Emerging Infectious Diseases. 2021 Oct. https://doi.org/10.3201/eid2710.210103.

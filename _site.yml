@@ -1,7 +1,4 @@
 name: "personal-website-catalina-medina"
-title: "My Website"
-description: |
-  My Website
 output_dir: "docs"
 navbar:
   right:
@@ -11,8 +8,8 @@ navbar:
       href: cv.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Projects"
-      href: projects.html
+    - text: "Research"
+      href: research.html
 output: 
   distill::distill_article:
     css: style.css
