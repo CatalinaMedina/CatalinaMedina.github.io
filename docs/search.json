@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-22T00:56:33-07:00"
+      "last_modified": "2021-09-22T01:00:18-07:00"
     },
     {
       "path": "cv.html",
@@ -14,21 +14,21 @@
       "description": "The details of my academic history at University of California, Irvine and University of Nevada, Reno.\n",
       "author": [],
       "contents": "\r\nCV\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-22T00:56:34-07:00"
+      "last_modified": "2021-09-22T01:00:19-07:00"
     },
     {
       "path": "index.html",
       "title": "Catalina Medina",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\nemail: catalmm1@uci.edu\r\ngithub: CatalinaMedina\r\nStatitics PhD Student\r\nUniversity of California, Irvine\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-22T00:56:36-07:00"
+      "last_modified": "2021-09-22T01:00:21-07:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\r\nCurrent projects\r\nMethodological work: quantifying and mitigating the impact of reporting delay of genetic sequences in phylodynamic analyses.\r\nApplication work: geostatistical exploration of factors related to Aedes mosquito exposure among Cambodian children.\r\nPublications\r\nParker DM, Bruckner T, Vieira VM, Medina C, Minin VN, Felgner PL, et al. Epidemiology of the early COVID-19 epidemic, Orange County, California, USA. Emerging Infectious Diseases. 2021 Oct. https://doi.org/10.3201/eid2710.210103.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-22T00:56:38-07:00"
+      "last_modified": "2021-09-22T01:00:22-07:00"
     },
     {
       "path": "teaching.html",
@@ -36,7 +36,7 @@
       "description": "My teaching experience at UNR and UCI as a teacher, teaching assistant, and grader.",
       "author": [],
       "contents": "\r\nUCI\r\nClasses I have been a teaching assistant for:\r\nStatistical Methods for Data Analysis I (Stats 110) 2021 Summer: Introduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.\r\nIntroduction to Probability and Statistics I (Stats 120A) 2020 Summer: Introduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.\r\nIntroduction to Probability and Statistics for Computer Science (Stats 67) 2020 Spring: Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.\r\nStatistical Methods for Data Analysis II (Stats 111) 2019 Winter: Introduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.\r\nIntroduction to Biological Statistics (Stats 8) 2019 Fall: Introductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology. Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance\r\nClasses I have graded for\r\nIntroduction to Probability and Statistics for Computer Science (Stats 67) 2020 Spring: Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.\r\nUNR\r\nClasses I have taught:\r\nIntermediate algebra (Math 96) 2019 Summer: Basic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.\r\nElementary Algebra (Math 95) 2019 Summer: Preparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-22T00:56:39-07:00"
+      "last_modified": "2021-09-22T01:00:24-07:00"
     }
   ],
   "collections": []
