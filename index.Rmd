@@ -1,7 +1,5 @@
 ---
-title: "My Website"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Catalina Medina"
 site: distill::distill_website
 ---
 
@@ -9,4 +7,11 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-My name is Catalina Medina and I am a PhD student in Statistics at the University of California, Irvine. This website displays information about my research, my teaching, and my academic history.
+
+```{r out.width='150px', echo=FALSE}
+knitr::include_graphics("images/my-picture.JPG")
+```
+
+catalmm1@uci.edu  
+Statitics PhD Student  
+University of California, Irvine  
