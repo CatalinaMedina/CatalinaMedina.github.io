@@ -6,6 +6,7 @@ description: |
 
 # UCI  
 ## Classes I have been a teaching assistant for:  
+- **Statistical Methods for Data Analysis I** (Stats 110) 2021 Summer: Introduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.  
 - **Introduction to Probability and Statistics I** (Stats 120A) 2020 Summer: Introduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.  
 - **Introduction to Probability and Statistics for Computer Science** (Stats 67) 2020 Spring: Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.  
 - **Statistical Methods for Data Analysis II** (Stats 111) 2019 Winter: Introduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.  
