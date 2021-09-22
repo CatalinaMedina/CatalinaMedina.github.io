@@ -1,0 +1,8 @@
+---
+title: "My CV"
+description: |
+  The details of my academic history at University of California, Irvine and University of Nevada, Reno.
+site: distill::distill_website
+---
+
+[**CV**](linked-documents/cv-catalina-medina.pdf)

@@ -1,0 +1,19 @@
+---
+title: "Projects"
+description: |
+  Below are research and class projects I have worked on.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Papers
+Recently I revised a paper I wrote for a survival analysis class final titled ["Quantifying the association between serum albumin and mortality in end stage renal disease patients undergoing dialysis."](https://github.com/stats295r-fa20/hw1-CatalinaMedina). The repo that contains this paper also contains the data and code used in the analysis.  
+
+# R packages  
+Isaac Goldstein and I made an R package called [epigraph](https://github.com/stats295r-fa20/package-group5) as part of the [UC Irvine COVID Awareness Group Members](https://www.stat.uci.edu/covid19/about.html). This package allows users to create epidemic time series plots such as those displayed on the [COVID-19 Trends by UC Irvine Website](https://www.stat.uci.edu/covid19/index.html).  
+
+# Shiny apps  
+Isaac Goldstein and I created a [shiny app to plot COVID-19 data in California](https://github.com/stats295r-fa20/shiny-group10). These plots utilize the package we created called [epigraph](https://github.com/stats295r-fa20/package-group5) as part of the [UC Irvine COVID Awareness Group Members](https://www.stat.uci.edu/covid19/about.html). This shiny app minimizes user burden in creating the plots while providing customization options by allowing the user to specify locations and the COVID-19 related variables to be plotted.

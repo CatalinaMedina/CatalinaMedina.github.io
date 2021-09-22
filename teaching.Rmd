@@ -1,0 +1,20 @@
+---
+title: "My teaching"
+description: |
+  My teaching experience at UNR and UCI as a teacher, teaching assistant, and grader.
+---
+
+# UCI  
+## Classes I have been a teaching assistant for:  
+- **Introduction to Probability and Statistics I** (Stats 120A) 2020 Summer: Introduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.  
+- **Introduction to Probability and Statistics for Computer Science** (Stats 67) 2020 Spring: Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.  
+- **Statistical Methods for Data Analysis II** (Stats 111) 2019 Winter: Introduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.  
+- **Introduction to Biological Statistics** (Stats 8) 2019 Fall: Introductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology. Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance
+
+## Classes I have graded for
+- **Introduction to Probability and Statistics for Computer Science** (Stats 67) 2020 Spring: Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.  
+
+# UNR  
+## Classes I have taught:  
+- **Intermediate algebra** (Math 96) 2019 Summer: Basic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.
+- **Elementary Algebra** (Math 95) 2019 Summer: Preparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring.
