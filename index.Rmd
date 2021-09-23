@@ -14,5 +14,5 @@ knitr::include_graphics("images/my-picture.JPG")
 
 email: catalmm1@uci.edu  
 github: [CatalinaMedina](https://github.com/CatalinaMedina)  
-Statitics PhD Student  
+Statistics PhD Student  
 University of California, Irvine  
