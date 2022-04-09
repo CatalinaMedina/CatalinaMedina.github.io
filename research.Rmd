@@ -7,9 +7,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Current projects  
-- Methodological work: quantifying and mitigating the impact of reporting delay of genetic sequences in phylodynamic analyses.  
-- Application work: geostatistical exploration of factors related to Aedes mosquito exposure among Cambodian children.
+- Quantifying and mitigating the impact of reporting delay of genetic sequences in phylodynamic analyses.  
+- Geostatistical exploration of factors related to Aedes mosquito exposure among Cambodian children.
+- [gradetools](https://federicazoe.github.io/gradetools/) package manuscript: Automated grading workflow for personalized feedback with gradetools
+- [gradetools](https://federicazoe.github.io/gradetools/) package workshop (details will be available soon)
 
 
 # Publications
 - Parker DM, Bruckner T, Vieira VM, Medina C, Minin VN, Felgner PL, et al. Epidemiology of the early COVID-19 epidemic, Orange County, California, USA. Emerging Infectious Diseases. 2021 Oct. https://doi.org/10.3201/eid2710.210103.
+
+# Packages  
+- [gradetools](https://federicazoe.github.io/gradetools/) package was created with data science instructors in mind. Assessing students with open-ended assignments (e.g. projects, interpretation questions) can be impactful but can also be arduous when it comes to grading. gradetools helps automate the grading workflow and facilitates in creating individualized assignment feedback for students.
