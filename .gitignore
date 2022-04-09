@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Ignore extra files produced from compiling CV
+linked-documents/
+!linked-documents/cv-catalina-medina.tex
+!linked-documents/cv-catalina-medina.pdf
