@@ -1,18 +1,28 @@
 ---
-title: "Catalina Medina"
+title: "Catalina Mari Medina"
 site: distill::distill_website
+image: "images/my-picture.JPG"
+links:
+  - label: Email
+    url: "mailto:catalmm1@uci.edu"
+  - label: GitHub
+    url: "https://github.com/CatalinaMedina"
+  - label: Twitter
+    url: "https://twitter.com/CatalinaMMedina"
+  - label: ORCiD
+    url: "https://orcid.org/0000-0003-2847-8180"
+output:
+  postcards::trestles
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+  
 
+I am a current UC Irvine Statistics PhD student. My research interests include:  
 
-```{r out.width='150px', echo=FALSE}
-knitr::include_graphics("images/my-picture.JPG")
-```
+- statistics and data science education and accessibility
+- epidemiological applications of statistics to better understand disease and infection 
 
-email: catalmm1@uci.edu  
-github: [CatalinaMedina](https://github.com/CatalinaMedina)  
-Statistics PhD Student  
-University of California, Irvine  
+My current methodological work is in improvement of phylodynamic estimation methods. 
