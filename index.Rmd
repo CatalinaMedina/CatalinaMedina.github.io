@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
   
 
-I am a current UC Irvine Statistics PhD student. My research interests include:  
+I am a UC Irvine Statistics PhD student and my research interests include:  
 
 - statistics and data science education and accessibility
 - epidemiological applications of statistics to better understand disease and infection 
