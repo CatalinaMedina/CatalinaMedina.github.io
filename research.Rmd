@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Quantifying and mitigating the impact of reporting delay of genetic sequences in phylodynamic analyses.  
 - Geostatistical exploration of factors related to *Aedes* mosquito exposure among Cambodian children.
 - [gradetools](https://federicazoe.github.io/gradetools/) package manuscript: Automated grading workflow for personalized feedback with gradetools
-- gradetools package workshop May 10th 9-10am PT on Zoom, [register here](https://uci.zoom.us/meeting/register/tJ0vd-6hpz4tEtWeRXBBG56XO-0m1d2pVGsc)
+- gradetools package workshop (the recording will be available soon!)
 
 ## Publications
 Parker DM, Bruckner T, Vieira VM, **Medina C**, Minin VN, Felgner PL, et al. Epidemiology of the early COVID-19 epidemic, Orange County, California, USA. Emerging Infectious Diseases. 2021 Oct. https://doi.org/10.3201/eid2710.210103.
