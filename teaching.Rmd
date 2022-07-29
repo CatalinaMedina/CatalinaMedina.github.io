@@ -3,15 +3,25 @@ title: "Teaching experience"
 description: |
   My teaching experience at UNR and UCI as a instructor of record, teaching assistant, and grader.
 ---
-## Instructor of record  
-### UNR  
-- **Intermediate algebra** (Math 96) 2019 Summer:  
+## Instructor of Record  
+### UCI (University of California, Irvine) 
+
+- **Basic Statistics** (Stats 7) 2022 Summer Session: [`r fontawesome::fa(name = "desktop", fill = "blue")`](https://catalinamedina.github.io/uci-stats7-su22-website/)  
+Introduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.
+
+
+### UNR (University of Nevada, Reno)
+
+- **Intermediate Algebra** (Math 96) 2019 Summer:  
 Basic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.
 - **Elementary Algebra** (Math 95) 2019 Summer:  
 Preparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring.
 
 ## Teaching assistant  
 ### UCI  
+- **Irvine Summer Institute in Biostatistics and Undergraduate Data Science (ISI-BUDS)**  2022 Summer: [`r fontawesome::fa(name = "link", fill = "blue")`](https://www.stat.uci.edu/isi-buds/)  
+ISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science. The program highlights applications in cutting edge biomedical research, trains students in fundamentals of biostatistics, data science, and computing, and culminates in a team project co-supervised by statisticians and biomedical scientists.
+
 - **Statistical Methods for Data Analysis I** (Stats 110) 2021 Summer:  
 Introduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.  
 - **Introduction to Probability and Statistics I** (Stats 120A) 2020 Summer:  
@@ -25,5 +35,6 @@ Introductory statistical techniques used to collect and analyze experimental and
 
 ## Grader  
 ### UCI  
+
 - **Introduction to Probability and Statistics for Computer Science** (Stats 67) 2020 Spring:  
 Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.  

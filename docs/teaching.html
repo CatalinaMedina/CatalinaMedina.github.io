@@ -50,16 +50,17 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {   }
+  { color: #00769e; background-color: #f1f3f5; }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #657422; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #007ba5; } /* ControlFlow */
+code span.cf { color: #00769e; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -73,9 +74,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #007ba5; } /* Keyword */
+code span.kw { color: #00769e; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #007ba5; } /* Other */
+code span.ot { color: #00769e; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -1030,10 +1031,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     margin-top: 1.5em;
   }
 
-  .figure img {
-    width: 100%;
-  }
-
   .figure .caption {
     color: rgba(0, 0, 0, 0.6);
     font-size: 12px;
@@ -1863,6 +1860,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
+        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
+          var fn = $(this).children()[0]
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
           return "<p>" + $('#ref-' + ref).html() + "</p>";
@@ -1877,6 +1880,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
           placement: 'bottom-start'
         });
       });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
 
       // clear polling timer
       clearInterval(tid);
@@ -1976,6 +2004,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -1998,7 +2028,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
       });
     }
 
@@ -2101,7 +2131,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h1>Teaching experience</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>My teaching experience at UNR and UCI as a instructor of record, teaching assistant, and grader.</p></p>
+<p><p>My teaching experience at UNR and UCI as a instructor of record,
+teaching assistant, and grader.</p></p>
 </div>
 
 
@@ -2110,55 +2141,106 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#instructor-of-record">Instructor of record</a>
+<li><a href="#instructor-of-record"
+id="toc-instructor-of-record">Instructor of Record</a>
 <ul>
-<li><a href="#unr">UNR</a></li>
+<li><a href="#uci-university-of-california-irvine"
+id="toc-uci-university-of-california-irvine">UCI (University of
+California, Irvine)</a></li>
+<li><a href="#unr-university-of-nevada-reno"
+id="toc-unr-university-of-nevada-reno">UNR (University of Nevada,
+Reno)</a></li>
 </ul></li>
-<li><a href="#teaching-assistant">Teaching assistant</a>
+<li><a href="#teaching-assistant" id="toc-teaching-assistant">Teaching
+assistant</a>
 <ul>
-<li><a href="#uci">UCI</a></li>
+<li><a href="#uci" id="toc-uci">UCI</a></li>
 </ul></li>
-<li><a href="#grader">Grader</a>
+<li><a href="#grader" id="toc-grader">Grader</a>
 <ul>
-<li><a href="#uci-1">UCI</a></li>
+<li><a href="#uci-1" id="toc-uci-1">UCI</a></li>
 </ul></li>
 </ul>
 </nav>
 </div>
-<h2 id="instructor-of-record">Instructor of record</h2>
-<h3 id="unr">UNR</h3>
+<h2 id="instructor-of-record">Instructor of Record</h2>
+<h3 id="uci-university-of-california-irvine">UCI (University of
+California, Irvine)</h3>
 <ul>
-<li><strong>Intermediate algebra</strong> (Math 96) 2019 Summer:<br />
-Basic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.</li>
+<li><strong>Basic Statistics</strong> (Stats 7) 2022 Summer Session: <a
+href="https://catalinamedina.github.io/uci-stats7-su22-website/"><svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:blue;overflow:visible;position:relative;"><path d="M528 0h-480C21.5 0 0 21.5 0 48v320C0 394.5 21.5 416 48 416h192L224 464H152C138.8 464 128 474.8 128 488S138.8 512 152 512h272c13.25 0 24-10.75 24-24s-10.75-24-24-24H352L336 416h192c26.5 0 48-21.5 48-48v-320C576 21.5 554.5 0 528 0zM512 288H64V64h448V288z"/></svg></a><br />
+Introduces basic inferential statistics including confidence intervals
+and hypothesis testing on means and proportions, t-distribution, Chi
+Square, regression and correlation. F-distribution and nonparametric
+statistics included if time permits.</li>
+</ul>
+<h3 id="unr-university-of-nevada-reno">UNR (University of Nevada,
+Reno)</h3>
+<ul>
+<li><strong>Intermediate Algebra</strong> (Math 96) 2019 Summer:<br />
+Basic properties of the real numbers; standard algebraic techniques,
+including exponents, factoring, fractions, radicals; problem solving;
+linear and quadratic equations; the concept of graphing.</li>
 <li><strong>Elementary Algebra</strong> (Math 95) 2019 Summer:<br />
-Preparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring.</li>
+Preparation for Intermediate Algebra. Topics include the fundamental
+operations on real numbers, inequalities in one variable, polynomials,
+integer exponents, and solving quadratic equations by factoring.</li>
 </ul>
 <h2 id="teaching-assistant">Teaching assistant</h2>
 <h3 id="uci">UCI</h3>
 <ul>
-<li><strong>Statistical Methods for Data Analysis I</strong> (Stats 110) 2021 Summer:<br />
-Introduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.<br />
-</li>
-<li><strong>Introduction to Probability and Statistics I</strong> (Stats 120A) 2020 Summer:<br />
-Introduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.<br />
-</li>
-<li><strong>Introduction to Probability and Statistics for Computer Science</strong> (Stats 67) 2020 Spring:<br />
-Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.<br />
-</li>
-<li><strong>Statistical Methods for Data Analysis II</strong> (Stats 111) 2019 Winter:<br />
-Introduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.<br />
-</li>
-<li><strong>Introduction to Biological Statistics</strong> (Stats 8) 2019 Fall:<br />
-Introductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology. Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance</li>
+<li><p><strong>Irvine Summer Institute in Biostatistics and
+Undergraduate Data Science (ISI-BUDS)</strong> 2022 Summer: <a
+href="https://www.stat.uci.edu/isi-buds/"><svg aria-hidden="true" role="img" viewBox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:blue;overflow:visible;position:relative;"><path d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/></svg></a><br />
+ISI-BUDS is a six-week summer program introducing undergraduate students
+to modern methodology and practice of biostatistics and data science.
+The program highlights applications in cutting edge biomedical research,
+trains students in fundamentals of biostatistics, data science, and
+computing, and culminates in a team project co-supervised by
+statisticians and biomedical scientists.</p></li>
+<li><p><strong>Statistical Methods for Data Analysis I</strong> (Stats
+110) 2021 Summer:<br />
+Introduction to statistical methods for analyzing data from experiments
+and surveys. Methods covered include two-sample procedures, analysis of
+variance, simple and multiple linear regression.<br />
+</p></li>
+<li><p><strong>Introduction to Probability and Statistics I</strong>
+(Stats 120A) 2020 Summer:<br />
+Introduction to basic principles of probability and statistical
+inference. Axiomatic definition of probability, random variables,
+probability distributions, expectation.<br />
+</p></li>
+<li><p><strong>Introduction to Probability and Statistics for Computer
+Science</strong> (Stats 67) 2020 Spring:<br />
+Introduction to the basic concepts of probability and statistics with
+discussion of applications to computer science.<br />
+</p></li>
+<li><p><strong>Statistical Methods for Data Analysis II</strong> (Stats
+111) 2019 Winter:<br />
+Introduction to statistical methods for analyzing data from surveys or
+experiments. Emphasizes application and understanding of methods for
+categorical data including contingency tables, logistic and Poisson
+regression, loglinear models.<br />
+</p></li>
+<li><p><strong>Introduction to Biological Statistics</strong> (Stats 8)
+2019 Fall:<br />
+Introductory statistical techniques used to collect and analyze
+experimental and observational data from health sciences and biology.
+Includes exploration of data, probability and sampling distributions,
+basic statistical inference for means and proportions, linear
+regression, and analysis of variance</p></li>
 </ul>
 <h2 id="grader">Grader</h2>
 <h3 id="uci-1">UCI</h3>
 <ul>
-<li><strong>Introduction to Probability and Statistics for Computer Science</strong> (Stats 67) 2020 Spring:<br />
-Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.<br />
+<li><strong>Introduction to Probability and Statistics for Computer
+Science</strong> (Stats 67) 2020 Spring:<br />
+Introduction to the basic concepts of probability and statistics with
+discussion of applications to computer science.<br />
 </li>
 </ul>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>

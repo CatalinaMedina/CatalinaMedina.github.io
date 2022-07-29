@@ -8,9 +8,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Current projects  
 - Quantifying and mitigating the impact of reporting delay of genetic sequences in phylodynamic analyses.  
-- Geostatistical exploration of factors related to *Aedes* mosquito exposure among Cambodian children.
+- Geostatistical exploration of factors related to *Aedes* mosquito exposure among Cambodian children. *Manuscript in process*
 - [gradetools](https://federicazoe.github.io/gradetools/) package manuscript: Automated grading workflow for personalized feedback with gradetools
-- gradetools package workshop (the recording will be available soon!)
 
 ## Publications
 Parker DM, Bruckner T, Vieira VM, **Medina C**, Minin VN, Felgner PL, et al. Epidemiology of the early COVID-19 epidemic, Orange County, California, USA. Emerging Infectious Diseases. 2021 Oct. https://doi.org/10.3201/eid2710.210103.
