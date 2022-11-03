@@ -4,11 +4,7 @@
 .Ruserdata
 
 # Ignore extra files produced from compiling CV
-docs/linked-documents/cv-catalina-medina.log
-linked-documents/cv-catalina-medina.log
-docs/linked-documents/cv-catalina-medina.aux
-linked-documents/cv-catalina-medina.aux
-docs/linked-documents/cv-catalina-medina.out
-linked-documents/cv-catalina-medina.out
-docs/linked-documents/cv-catalina-medina.synctex.gz
-linked-documents/cv-catalina-medina.synctex.gz
+*.log
+*.aux
+*.out
+*.synctex.gz
