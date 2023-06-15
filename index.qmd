@@ -1,5 +1,5 @@
 ---
-title: "Catalina Medina"
+title: "Catalina Mari Medina"
 image: images/my-picture.jpg
 about: 
   template: trestles
