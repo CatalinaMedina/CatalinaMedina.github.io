@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: Research
+      - href: cv/cv-catalina-medina-updated-2023-06-15.pdf
+        text: CV
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+

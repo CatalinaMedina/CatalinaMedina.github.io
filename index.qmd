@@ -1,0 +1,25 @@
+---
+title: "Catalina Medina"
+image: images/my-picture.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:catalmm1@uci.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/CatalinaMedina
+    - icon: person-check-fill
+      text: ORCiD
+      href: https://orcid.org/0000-0003-2847-8180
+---
+
+I am a UC Irvine Statistics PhD student and my research interests include:
+
+-   statistics and data science education and accessibility
+-   epidemiological applications of statistics to better understand disease and infection
+
+My current methodological work is in improvement of phylodynamic estimation methods.

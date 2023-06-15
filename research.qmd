@@ -1,0 +1,30 @@
+---
+title: "Research"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Current projects
+
+-   Quantifying and mitigating the impact of reporting delayd of genetic sequences in phylodynamic analyses.\
+-   [gradetools](https://federicazoe.github.io/gradetools/) package manuscript: Automated grading workflow for personalized feedback with gradetools
+
+## Publications
+
+Parker DM, **Medina CM**, et al. Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia. Acta Tropica. 2023 Mar. <https://doi.org/10.1016/j.actatropica.2023.106829>
+
+Parker DM, Bruckner T, Vieira VM, **Medina C**, Minin VN, et al. Epidemiology of the early COVID-19 epidemic, Orange County, California, USA. Emerging Infectious Diseases. 2021 Oct. <https://doi.org/10.3201/eid2710.210103>
+
+## Packages
+
+The [gradetools](https://federicazoe.github.io/gradetools/) `R` package was created with data science instructors in mind. Assessing students with open-ended assignments (e.g. projects, interpretation questions) can be impactful but can also be arduous when it comes to grading. gradetools helps automate the grading workflow and facilitates in creating individualized assignment feedback for students.
+
+::: column-margin
+![](images/gradetools-logo.png)
+:::
+
+## COVID-19 Trends by UC Irvine website
+
+Created and maintain animated maps of COVID-19 case incidence, tests, and positivity in Orange County for the [COVID-19 Trends by UC Irvine](https://www.stat.uci.edu/covid19/) website created by the UC Irvine COVID Awareness group.

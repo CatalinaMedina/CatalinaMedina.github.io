@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalina Medina",
+    "section": "",
+    "text": "I am a UC Irvine Statistics PhD student and my research interests include:\n\nstatistics and data science education and accessibility\nepidemiological applications of statistics to better understand disease and infection\n\nMy current methodological work is in improvement of phylodynamic estimation methods."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Quantifying and mitigating the impact of reporting delayd of genetic sequences in phylodynamic analyses.\n\ngradetools package manuscript: Automated grading workflow for personalized feedback with gradetools"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Quantifying and mitigating the impact of reporting delayd of genetic sequences in phylodynamic analyses.\n\ngradetools package manuscript: Automated grading workflow for personalized feedback with gradetools"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nParker DM, Medina CM, et al. Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia. Acta Tropica. 2023 Mar. https://doi.org/10.1016/j.actatropica.2023.106829\nParker DM, Bruckner T, Vieira VM, Medina C, Minin VN, et al. Epidemiology of the early COVID-19 epidemic, Orange County, California, USA. Emerging Infectious Diseases. 2021 Oct. https://doi.org/10.3201/eid2710.210103"
+  },
+  {
+    "objectID": "research.html#packages",
+    "href": "research.html#packages",
+    "title": "Research",
+    "section": "Packages",
+    "text": "Packages\nThe gradetools R package was created with data science instructors in mind. Assessing students with open-ended assignments (e.g. projects, interpretation questions) can be impactful but can also be arduous when it comes to grading. gradetools helps automate the grading workflow and facilitates in creating individualized assignment feedback for students."
+  },
+  {
+    "objectID": "research.html#covid-19-trends-by-uc-irvine-website",
+    "href": "research.html#covid-19-trends-by-uc-irvine-website",
+    "title": "Research",
+    "section": "COVID-19 Trends by UC Irvine website",
+    "text": "COVID-19 Trends by UC Irvine website\nCreated and maintain animated maps of COVID-19 case incidence, tests, and positivity in Orange County for the COVID-19 Trends by UC Irvine website created by the UC Irvine COVID Awareness group."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching experience",
+    "section": "",
+    "text": "Basic Statistics (Stats 7)\n2022 Summer Session: \nIntroduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.\n\n\n\n\n\nIntermediate Algebra (Math 96)\n2019 Summer:\nBasic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.\nElementary Algebra (Math 95)\n2019 Summer:\nPreparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring."
+  },
+  {
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Teaching experience",
+    "section": "",
+    "text": "Basic Statistics (Stats 7)\n2022 Summer Session: \nIntroduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.\n\n\n\n\n\nIntermediate Algebra (Math 96)\n2019 Summer:\nBasic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.\nElementary Algebra (Math 95)\n2019 Summer:\nPreparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching experience",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\n\nUCI\n\nIrvine Summer Institute in Biostatistics and Undergraduate Data Science (ISI-BUDS)\n2022 Summer: \nISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science. The program highlights applications in cutting edge biomedical research, trains students in fundamentals of biostatistics, data science, and computing, and culminates in a team project co-supervised by statisticians and biomedical scientists.\nStatistical Methods for Data Analysis I (Stats 110)\n2021 Summer:\nIntroduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.\n\nIntroduction to Probability and Statistics I (Stats 120A)\n2020 Summer:\nIntroduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.\n\nIntroduction to Probability and Statistics for Computer Science (Stats 67)\n2020 Spring:\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science.\n\nStatistical Methods for Data Analysis II (Stats 111)\n2019 Winter:\nIntroduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.\n\nIntroduction to Biological Statistics (Stats 8)\n2019 Fall:\nIntroductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology. Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance"
+  },
+  {
+    "objectID": "teaching.html#grader",
+    "href": "teaching.html#grader",
+    "title": "Teaching experience",
+    "section": "Grader",
+    "text": "Grader\n\nUCI\n\nIntroduction to Probability and Statistics for Computer Science (Stats 67)\n2020 Spring:\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science."
+  }
+]

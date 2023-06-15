@@ -2,9 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-
-# Ignore extra files produced from compiling CV
-*.log
-*.aux
-*.out
-*.synctex.gz
+*.Rproj
+/.quarto/
