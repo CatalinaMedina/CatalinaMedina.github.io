@@ -26,7 +26,7 @@ description: |
 ### UCI
 
 -   **Irvine Summer Institute in Biostatistics and Undergraduate Data Science** (ISI-BUDS)\
-    2022 Summer: [{{< fa link >}}](https://www.stat.uci.edu/isi-buds/)\
+    2023 & 2022 Summer: [{{< fa link >}}](https://www.stat.uci.edu/isi-buds/)\
     ISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science. The program highlights applications in cutting edge biomedical research, trains students in fundamentals of biostatistics, data science, and computing, and culminates in a team project co-supervised by statisticians and biomedical scientists.
 
 -   **Statistical Methods for Data Analysis I** (Stats 110)\
