@@ -17,9 +17,9 @@ about:
       href: https://orcid.org/0000-0003-2847-8180
 ---
 
-I am a UC Irvine Statistics PhD student and my research interests include:
+I am a UC Irvine Statistics PhD candidate and my research interests include:
 
 -   statistics and data science education and accessibility
 -   epidemiological applications of statistics to better understand disease and infection
 
-My current methodological work is in improvement of phylodynamic estimation methods.
+My current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting.

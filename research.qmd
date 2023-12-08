@@ -8,18 +8,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Current projects
 
--   Quantifying and mitigating the impact of reporting delayd of genetic sequences in phylodynamic analyses.\
+-   Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses
+-   Comparative analysis of data science education research
 -   [gradetools](https://federicazoe.github.io/gradetools/) package manuscript: Automated grading workflow for personalized feedback with gradetools
 
 ## Publications
 
-Parker DM, **Medina CM**, et al. Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia. Acta Tropica. 2023 Mar. <https://doi.org/10.1016/j.actatropica.2023.106829>
+\[In submission\] Ricci, F.Z., **Medina, C.M.**, Dogucu, M., 2023.
+Designing and implementing an automated grading workflow for providing personalized feedback to open-ended data science assignments. 
+<https://doi.org/10.48550/arXiv.2309.12924>
 
-Parker DM, Bruckner T, Vieira VM, **Medina C**, Minin VN, et al. Epidemiology of the early COVID-19 epidemic, Orange County, California, USA. Emerging Infectious Diseases. 2021 Oct. <https://doi.org/10.3201/eid2710.210103>
+Parker, D.M., **Medina, C.**, Bohl, J., Lon, C., Chea, S., Lay, S., Kong, D., Nhek, S., Man, S., Doehl, J.S.P., Leang, R., Kry, H., Rekol, H., Oliveira, F., Minin, V.M., Manning, J.E., 2023.
+Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.
+Acta Tropica 239, 106829. 
+<https://doi.org/10.1016/j.actatropica.2023.106829>
+
+Parker, D.M., Bruckner, T., Vieira, V.M., **Medina, C.**, Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M.
+and Boden-Albala, B., 2021.
+Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. *Emerging infectious diseases*, *27*(10), p.2604.
+<https://doi.org/10.3201/eid2710.210103>.
 
 ## Packages
 
-The [gradetools](https://federicazoe.github.io/gradetools/) `R` package was created with data science instructors in mind. Assessing students with open-ended assignments (e.g. projects, interpretation questions) can be impactful but can also be arduous when it comes to grading. gradetools helps automate the grading workflow and facilitates in creating individualized assignment feedback for students.
+The [gradetools](https://federicazoe.github.io/gradetools/) `R` package was created with data science instructors in mind.
+Assessing students with open-ended assignments (e.g. projects, interpretation questions) can be impactful, but can also be arduous when it comes to grading.
+gradetools helps automate the grading workflow and facilitates in creating individualized assignment feedback for students.
 
 ::: column-margin
 ![](images/gradetools-logo.png)
