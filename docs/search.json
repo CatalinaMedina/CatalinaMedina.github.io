@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Catalina Mari Medina",
-    "section": "",
-    "text": "I am a UC Irvine Statistics PhD candidate and my research interests include:\n\nstatistics and data science education and accessibility\nepidemiological applications of statistics to better understand disease and infection\n\nMy current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses\nComparative analysis of data science education research\ngradetools package manuscript: Automated grading workflow for personalized feedback with gradetools"
-  },
-  {
-    "objectID": "research.html#current-projects",
-    "href": "research.html#current-projects",
-    "title": "Research",
-    "section": "",
-    "text": "Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses\nComparative analysis of data science education research\ngradetools package manuscript: Automated grading workflow for personalized feedback with gradetools"
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n[In submission] Ricci, F.Z., Medina, C.M., Dogucu, M., 2023. Designing and implementing an automated grading workflow for providing personalized feedback to open-ended data science assignments.  https://doi.org/10.48550/arXiv.2309.12924\nParker, D.M., Medina, C., Bohl, J., Lon, C., Chea, S., Lay, S., Kong, D., Nhek, S., Man, S., Doehl, J.S.P., Leang, R., Kry, H., Rekol, H., Oliveira, F., Minin, V.M., Manning, J.E., 2023. Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia. Acta Tropica 239, 106829.  https://doi.org/10.1016/j.actatropica.2023.106829\nParker, D.M., Bruckner, T., Vieira, V.M., Medina, C., Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M. and Boden-Albala, B., 2021. Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. Emerging infectious diseases, 27(10), p.2604. https://doi.org/10.3201/eid2710.210103."
-  },
-  {
-    "objectID": "research.html#packages",
-    "href": "research.html#packages",
-    "title": "Research",
-    "section": "Packages",
-    "text": "Packages\nThe gradetools R package was created with data science instructors in mind. Assessing students with open-ended assignments (e.g. projects, interpretation questions) can be impactful, but can also be arduous when it comes to grading. gradetools helps automate the grading workflow and facilitates in creating individualized assignment feedback for students."
-  },
-  {
-    "objectID": "research.html#covid-19-trends-by-uc-irvine-website",
-    "href": "research.html#covid-19-trends-by-uc-irvine-website",
-    "title": "Research",
-    "section": "COVID-19 Trends by UC Irvine website",
-    "text": "COVID-19 Trends by UC Irvine website\nCreated and maintain animated maps of COVID-19 case incidence, tests, and positivity in Orange County for the COVID-19 Trends by UC Irvine website created by the UC Irvine COVID Awareness group."
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching experience",
@@ -68,5 +26,47 @@
     "title": "Teaching experience",
     "section": "Grader",
     "text": "Grader\n\nUCI\n\nIntroduction to Probability and Statistics for Computer Science (Stats 67)\n2020 Spring:\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalina Mari Medina",
+    "section": "",
+    "text": "I am a UC Irvine Statistics PhD candidate and my research interests include:\n\nstatistics and data science education and accessibility\nepidemiological applications of statistics to better understand disease and infection\n\nMy current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses\n[Submitted] Dogucu, M., Demirci, S., Bendekgey, H., Ricci F. Z.,& Medina, C. M. Undergraduate data science education: Who has the microphone and what are they saying? https://doi.org/10.48550/arXiv.2403.03387\n[Under revision] Ricci, F.Z., Medina, C.M., Dogucu, M. Automated grading workflows for providing personalized feedback to open-ended data science assignments. https://doi.org/10.48550/arXiv.2309.12924"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses\n[Submitted] Dogucu, M., Demirci, S., Bendekgey, H., Ricci F. Z.,& Medina, C. M. Undergraduate data science education: Who has the microphone and what are they saying? https://doi.org/10.48550/arXiv.2403.03387\n[Under revision] Ricci, F.Z., Medina, C.M., Dogucu, M. Automated grading workflows for providing personalized feedback to open-ended data science assignments. https://doi.org/10.48550/arXiv.2309.12924"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nParker, D.M., Medina, C., Bohl, J., Lon, C., Chea, S., Lay, S., Kong, D., Nhek, S., Man, S., Doehl, J.S.P., Leang, R., Kry, H., Rekol, H., Oliveira, F., Minin, V.M., Manning, J.E., 2023. Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia. Acta Tropica 239, 106829. https://doi.org/10.1016/j.actatropica.2023.106829\nParker, D.M., Bruckner, T., Vieira, V.M., Medina, C., Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M. and Boden-Albala, B., 2021. Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. Emerging infectious diseases, 27(10), p.2604. https://doi.org/10.3201/eid2710.210103."
+  },
+  {
+    "objectID": "research.html#packages",
+    "href": "research.html#packages",
+    "title": "Research",
+    "section": "Packages",
+    "text": "Packages\nThe gradetools R package was created with data science instructors in mind. Assessing students with open-ended assignments (e.g. projects, interpretation questions) can be impactful, but can also be arduous when it comes to grading. gradetools helps automate the grading workflow and facilitates in creating individualized assignment feedback for students."
+  },
+  {
+    "objectID": "research.html#covid-19-trends-by-uc-irvine-website",
+    "href": "research.html#covid-19-trends-by-uc-irvine-website",
+    "title": "Research",
+    "section": "COVID-19 Trends by UC Irvine website",
+    "text": "COVID-19 Trends by UC Irvine website\nCreated and maintain animated maps of COVID-19 case incidence, tests, and positivity in Orange County for the COVID-19 Trends by UC Irvine website created by the UC Irvine COVID Awareness group."
   }
 ]
