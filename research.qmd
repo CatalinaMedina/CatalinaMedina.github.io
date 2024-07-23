@@ -2,15 +2,14 @@
 title: "Research"
 execute: 
   echo: false
+editor: source
 ---
 
 ## Current projects
 
-- Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses
-- \[*Submitted*\] Dogucu, M., Demirci, S., Bendekgey, H., Ricci F. Z.,& **Medina, C. M.** Undergraduate data science education: Who has the microphone and what are they saying? <https://doi.org/10.48550/arXiv.2403.03387>
-- \[*Under revision*\] Ricci, F.Z., **Medina, C.M.**, Dogucu, M.
-Automated grading workflows for providing personalized feedback to open-ended data science assignments.
-<https://doi.org/10.48550/arXiv.2309.12924>
+-   Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses
+-   \[*Submitted*\] Dogucu, M., Demirci, S., Bendekgey, H., Ricci F. Z.,& **Medina, C. M.** Undergraduate data science education: Who has the microphone and what are they saying? <https://doi.org/10.48550/arXiv.2403.03387>
+-   \[*Under revision*\] Ricci, F.Z., **Medina, C.M.**, Dogucu, M. Automated grading workflows for providing personalized feedback to open-ended data science assignments. <https://doi.org/10.48550/arXiv.2309.12924>
 
 ## Publications
 
