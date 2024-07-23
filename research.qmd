@@ -8,20 +8,23 @@ editor: source
 ## Current projects
 
 -   Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses
--   \[*Submitted*\] Dogucu, M., Demirci, S., Bendekgey, H., Ricci F. Z.,& **Medina, C. M.** Undergraduate data science education: Who has the microphone and what are they saying? <https://doi.org/10.48550/arXiv.2403.03387>
--   \[*Under revision*\] Ricci, F.Z., **Medina, C.M.**, Dogucu, M. Automated grading workflows for providing personalized feedback to open-ended data science assignments. <https://doi.org/10.48550/arXiv.2309.12924>
+-   \[*Under revisions*\] Dogucu, M., Demirci, S., Bendekgey, H., Ricci F. Z.,& **Medina, C. M.** Undergraduate data science education: Who has the microphone and what are they saying? <https://doi.org/10.48550/arXiv.2403.03387>
 
 ## Publications
 
-Parker, D.M., **Medina, C.**, Bohl, J., Lon, C., Chea, S., Lay, S., Kong, D., Nhek, S., Man, S., Doehl, J.S.P., Leang, R., Kry, H., Rekol, H., Oliveira, F., Minin, V.M., Manning, J.E., 2023.
-Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.
-Acta Tropica 239, 106829.
+Ricci, F., **Medina, C. M**, & Dogucu, M. (2024). 
+Designing and implementing an automated grading workflow for providing personalized feedback to open-ended data science assignments. 
+*Technology Innovations in Statistics Education*, 15(1).
+<http://dx.doi.org/10.5070/T5.1886>
+
+Parker, D.M., **Medina, C.**, Bohl, J., Lon, C., Chea, S., Lay, S., Kong, D., Nhek, S., Man, S., Doehl, J.S.P., Leang, R., Kry, H., Rekol, H., Oliveira, F., Minin, V.M., Manning, J.E. (2023). 
+Determinants of exposure to Aedes mosquitoes: a comprehensive geospatial analysis in peri-urban Cambodia. 
+*Acta Tropica*, 239, 106829.
 <https://doi.org/10.1016/j.actatropica.2023.106829>
 
-Parker, D.M., Bruckner, T., Vieira, V.M., **Medina, C.**, Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M.
-and Boden-Albala, B., 2021.
-Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. *Emerging infectious diseases*, *27*(10), p.2604.
-<https://doi.org/10.3201/eid2710.210103>.
+Parker, D.M., Bruckner, T., Vieira, V.M., **Medina, C.**, Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M. and Boden-Albala, B. (2021). Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. 
+*Emerging infectious diseases*, 27(10), 2604.
+<https://doi.org/10.3201/eid2710.210103>
 
 ## Packages
 
