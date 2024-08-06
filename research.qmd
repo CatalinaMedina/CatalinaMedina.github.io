@@ -5,12 +5,13 @@ execute:
 editor: source
 ---
 
-## Current projects
+## Preprints
 
--   Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses
--   \[*Under revisions*\] Dogucu, M., Demirci, S., Bendekgey, H., Ricci F. Z.,& **Medina, C. M.** Undergraduate data science education: Who has the microphone and what are they saying? <https://doi.org/10.48550/arXiv.2403.03387>
+**Medina, C. M.**, Palacios J. A., Minin, V. M. Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses. <https://arxiv.org/abs/2407.18432>
 
-## Publications
+Dogucu, M., Demirci, S., Bendekgey, H., Ricci F. Z.,& **Medina, C. M.** Undergraduate data science education: Who has the microphone and what are they saying? <https://doi.org/10.48550/arXiv.2403.03387>
+
+## Peer-reviewed Publications
 
 Ricci, F., **Medina, C. M**, & Dogucu, M. (2024). 
 Designing and implementing an automated grading workflow for providing personalized feedback to open-ended data science assignments. 
@@ -35,6 +36,8 @@ gradetools helps automate the grading workflow and facilitates in creating indiv
 ::: column-margin
 ![](images/gradetools-logo.png)
 :::
+
+The [phylodyn2](https://github.com/CatalinaMedina/phylodyn2) `R` package facilitates phylodynamic inference and analyses, and it implements methodology developed for accounting for reporting delays, by incorporating reporting probabilities in the preferential sampling model for real-time phylodynamic analyses.
 
 ## COVID-19 Trends by UC Irvine website
 
