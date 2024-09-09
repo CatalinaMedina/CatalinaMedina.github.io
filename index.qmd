@@ -20,7 +20,7 @@ editor: source
 
 I am a UC Irvine Statistics PhD candidate and my research interests include:
 
--   statistics and data science education and accessibility
+-   statistics and data science education
 -   epidemiological applications of statistics to better understand disease and infection
 
 My current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting.
