@@ -1,7 +1,6 @@
 ---
 title: "Teaching Experience"
 editor: source
-toc-title: "Teaching Experience"
 toc-expand: false
 ---
 

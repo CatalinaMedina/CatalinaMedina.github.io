@@ -13,7 +13,10 @@ website:
         text: Research
       - href: cv/cv-catalina-medina.pdf
         text: CV
-
+    right:
+      - icon: github
+        href: https://github.com/CatalinaMedina/CatalinaMedina.github.io
+  search: false
 format:
   html:
     theme: yeti
