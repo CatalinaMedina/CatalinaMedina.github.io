@@ -2,30 +2,37 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Teaching experience",
+    "title": "Teaching Experience",
     "section": "",
-    "text": "Basic Statistics (Stats 7)\n2022 Summer Session: \nIntroduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.\n\n\n\n\n\nIntermediate Algebra (Math 96)\n2019 Summer:\nBasic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.\nElementary Algebra (Math 95)\n2019 Summer:\nPreparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring."
+    "text": "Regression Analysis (STAT 510) - graduate\nFall 2024:\nIntroduced logistic regression across two class sessions, and held a corresponding office hour. Observed by Dr. Seungjoon (Joon) Lee as part of the CSU Pre-Professor Program.\nCommunity Health Statistics (H SC 403) - undergraduate\nFall 2024:\nIntroduced Chi-Square test for Goodness of Fit and the Chi-Square Test for Independence in one class session. Observed by Dr. Selena Nguyen-Rodriguez as part of the CSU Pre-Professor Program."
+  },
+  {
+    "objectID": "teaching.html#guest-lecturer",
+    "href": "teaching.html#guest-lecturer",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Regression Analysis (STAT 510) - graduate\nFall 2024:\nIntroduced logistic regression across two class sessions, and held a corresponding office hour. Observed by Dr. Seungjoon (Joon) Lee as part of the CSU Pre-Professor Program.\nCommunity Health Statistics (H SC 403) - undergraduate\nFall 2024:\nIntroduced Chi-Square test for Goodness of Fit and the Chi-Square Test for Independence in one class session. Observed by Dr. Selena Nguyen-Rodriguez as part of the CSU Pre-Professor Program."
   },
   {
     "objectID": "teaching.html#instructor-of-record",
     "href": "teaching.html#instructor-of-record",
-    "title": "Teaching experience",
-    "section": "",
-    "text": "Basic Statistics (Stats 7)\n2022 Summer Session: \nIntroduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.\n\n\n\n\n\nIntermediate Algebra (Math 96)\n2019 Summer:\nBasic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.\nElementary Algebra (Math 95)\n2019 Summer:\nPreparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring."
+    "title": "Teaching Experience",
+    "section": "Instructor of Record",
+    "text": "Instructor of Record\n\nUC Irvine\n\nBasic Statistics (Stats 7) - undergraduate\n2022 Summer Session: \nIntroduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.\n\n\n\nUniversity of Nevada, Reno\n\nIntermediate Algebra (Math 96) - undergraduate\n2019 Summer:\nBasic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.\nElementary Algebra (Math 95) - undergraduate\n2019 Summer:\nPreparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring."
   },
   {
     "objectID": "teaching.html#teaching-assistant",
     "href": "teaching.html#teaching-assistant",
-    "title": "Teaching experience",
+    "title": "Teaching Experience",
     "section": "Teaching assistant",
-    "text": "Teaching assistant\n\nUCI\n\nIrvine Summer Institute in Biostatistics and Undergraduate Data Science (ISI-BUDS)\n2023 & 2022 Summer: \nISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science. The program highlights applications in cutting edge biomedical research, trains students in fundamentals of biostatistics, data science, and computing, and culminates in a team project co-supervised by statisticians and biomedical scientists.\nStatistical Methods for Data Analysis I (Stats 110)\n2021 Summer:\nIntroduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.\n\nIntroduction to Probability and Statistics I (Stats 120A)\n2020 Summer:\nIntroduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.\n\nIntroduction to Probability and Statistics for Computer Science (Stats 67)\n2020 Spring:\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science.\n\nStatistical Methods for Data Analysis II (Stats 111)\n2019 Winter:\nIntroduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.\n\nIntroduction to Biological Statistics (Stats 8)\n2019 Fall:\nIntroductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology. Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance"
+    "text": "Teaching assistant\n\nUC Irvine\n\nIrvine Summer Institute in Biostatistics and Undergraduate Data Science (ISI-BUDS) - undergraduate\n2023 & 2022 Summer: \nISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science. The program highlights applications in cutting edge biomedical research, trains students in fundamentals of biostatistics, data science, and computing, and culminates in a team project co-supervised by statisticians and biomedical scientists.\nStatistical Methods for Data Analysis I (Stats 110) - undergraduate\n2021 Summer:\nIntroduction to statistical methods for analyzing data from experiments and surveys. Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.\n\nIntroduction to Probability and Statistics I (Stats 120A) - undergraduate\n2020 Summer:\nIntroduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.\n\nIntroduction to Probability and Statistics for Computer Science (Stats 67) - undergraduate\n2020 Spring:\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science.\n\nStatistical Methods for Data Analysis II (Stats 111) - undergraduate\n2019 Winter:\nIntroduction to statistical methods for analyzing data from surveys or experiments. Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.\n\nIntroduction to Biological Statistics (Stats 8) - undergraduate\n2019 Fall:\nIntroductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology. Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance"
   },
   {
     "objectID": "teaching.html#grader",
     "href": "teaching.html#grader",
-    "title": "Teaching experience",
+    "title": "Teaching Experience",
     "section": "Grader",
-    "text": "Grader\n\nUCI\n\nIntroduction to Probability and Statistics for Computer Science (Stats 67)\n2020 Spring:\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science."
+    "text": "Grader\n\nUC Irvine\n\nIntroduction to Probability and Statistics for Computer Science (Stats 67) - undergraduate\n2020 Spring:\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science."
   },
   {
     "objectID": "index.html",

@@ -1,64 +1,76 @@
 ---
-title: "Teaching experience"
-description: |
-  My teaching experience at UNR and UCI as a instructor of record, teaching assistant, and grader.
+title: "Teaching Experience"
 editor: source
+toc-title: "Teaching Experience"
+toc-expand: false
 ---
+
+## Guest Lecturer
+
+### CSU Long Beach
+
+- **Regression Analysis** (STAT 510) - *graduate* \
+  Fall 2024:\
+  Introduced logistic regression across two class sessions, and held a corresponding office hour. Observed by Dr. Seungjoon (Joon) Lee as part of the [CSU Pre-Professor Program](https://grad.uci.edu/professional-development/graduate-and-postdoctoral-scholar-resource-center/csu-long-beach-pre-professor-program/).
+  
+- **Community Health Statistics** (H SC 403) - *undergraduate*\
+  Fall 2024:\
+  Introduced Chi-Square test for Goodness of Fit and the Chi-Square Test for Independence in one class session. Observed by Dr. Selena Nguyen-Rodriguez as part of the [CSU Pre-Professor Program](https://grad.uci.edu/professional-development/graduate-and-postdoctoral-scholar-resource-center/csu-long-beach-pre-professor-program/).
 
 ## Instructor of Record
 
-### UCI (University of California, Irvine)
+### UC Irvine
 
--   **Basic Statistics** (Stats 7)\
+-   **Basic Statistics** (Stats 7) - *undergraduate*\
     2022 Summer Session: [{{< fa desktop >}}](https://catalinamedina.github.io/uci-stats7-su22-website/)\
     Introduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.
 
-### UNR (University of Nevada, Reno)
+### University of Nevada, Reno
 
--   **Intermediate Algebra** (Math 96)\
+-   **Intermediate Algebra** (Math 96) - *undergraduate*\
     2019 Summer:\
     Basic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.
--   **Elementary Algebra** (Math 95)\
+-   **Elementary Algebra** (Math 95) - *undergraduate*\
     2019 Summer:\
     Preparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring.
 
 ## Teaching assistant
 
-### UCI
+### UC Irvine
 
--   **Irvine Summer Institute in Biostatistics and Undergraduate Data Science** (ISI-BUDS)\
+-   **Irvine Summer Institute in Biostatistics and Undergraduate Data Science** (ISI-BUDS) - *undergraduate*\
     2023 & 2022 Summer: [{{< fa link >}}](https://www.stat.uci.edu/isi-buds/)\
     ISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science.
     The program highlights applications in cutting edge biomedical research, trains students in fundamentals of biostatistics, data science, and computing, and culminates in a team project co-supervised by statisticians and biomedical scientists.
 
--   **Statistical Methods for Data Analysis I** (Stats 110)\
+-   **Statistical Methods for Data Analysis I** (Stats 110) - *undergraduate*\
     2021 Summer:\
     Introduction to statistical methods for analyzing data from experiments and surveys.
     Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.\
 
--   **Introduction to Probability and Statistics I** (Stats 120A)\
+-   **Introduction to Probability and Statistics I** (Stats 120A) - *undergraduate*\
     2020 Summer:\
     Introduction to basic principles of probability and statistical inference.
     Axiomatic definition of probability, random variables, probability distributions, expectation.\
 
--   **Introduction to Probability and Statistics for Computer Science** (Stats 67)\
+-   **Introduction to Probability and Statistics for Computer Science** (Stats 67) - *undergraduate*\
     2020 Spring:\
     Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.\
 
--   **Statistical Methods for Data Analysis II** (Stats 111)\
+-   **Statistical Methods for Data Analysis II** (Stats 111) - *undergraduate*\
     2019 Winter:\
     Introduction to statistical methods for analyzing data from surveys or experiments.
     Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.\
 
--   **Introduction to Biological Statistics** (Stats 8)\
+-   **Introduction to Biological Statistics** (Stats 8) - *undergraduate*\
     2019 Fall:\
     Introductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology.
     Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance
 
 ## Grader
 
-### UCI
+### UC Irvine
 
--   **Introduction to Probability and Statistics for Computer Science** (Stats 67)\
+-   **Introduction to Probability and Statistics for Computer Science** (Stats 67) - *undergraduate*\
     2020 Spring:\
     Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
