@@ -42,6 +42,13 @@
     "text": "I am a UC Irvine Statistics PhD candidate and my research interests include:\n\nBiostatistics\nBayesian methodology\nStochastic processes\nStatistics and data science education\n\nMy current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting."
   },
   {
+    "objectID": "bayesrules-hw-data/paths.html",
+    "href": "bayesrules-hw-data/paths.html",
+    "title": "",
+    "section": "",
+    "text": "Data from bayesrules package for homework\n[soda-vs-pop](pop-vs-soda.csv)"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
