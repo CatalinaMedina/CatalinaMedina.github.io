@@ -42,32 +42,18 @@
     "text": "I am a UC Irvine Statistics PhD candidate and my research interests include:\n\nBiostatistics\nBayesian methodology\nStochastic processes\nStatistics and data science education\n\nMy current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting.\nStarting Fall 2025 I will be an Assistant Professor of Data Science at CSU Channel Islands!"
   },
   {
-    "objectID": "bayesrules-hw-data/paths.html",
-    "href": "bayesrules-hw-data/paths.html",
-    "title": "",
-    "section": "",
-    "text": "Data from bayesrules package for homework\nsoda-vs-pop\ngorillas"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Medina, C. M., Palacios J. A., Minin, V. M. Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses. https://arxiv.org/abs/2407.18432 accepted to be published in PLOS Computational Biology"
-  },
-  {
-    "objectID": "research.html#preprints",
-    "href": "research.html#preprints",
-    "title": "Research",
-    "section": "",
-    "text": "Medina, C. M., Palacios J. A., Minin, V. M. Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses. https://arxiv.org/abs/2407.18432 accepted to be published in PLOS Computational Biology"
+    "text": "Medina, C. M., Palacios J. A., Minin, V. M. (2025). Accounting for reporting delays in real-time phylodynamic analyses with preferential sampling. PLoS Computational Biology, 20(5): e1012970. https://doi.org/10.1371/journal.pcbi.1012970\nDogucu, M., Demirci, S., Bendekgey, H., Ricci, F. Z., & Medina, C. M. (2025). A Systematic Literature Review of Undergraduate Data Science Education Research. Journal of Statistics and Data Science Education, 1–20. https://doi.org/10.1080/26939169.2025.2486656\nRicci, F., Medina, C. M, & Dogucu, M. (2024). Designing and implementing an automated grading workflow for providing personalized feedback to open-ended data science assignments. Technology Innovations in Statistics Education, 15(1). http://dx.doi.org/10.5070/T5.1886\nParker, D.M., Medina, C., Bohl, J., Lon, C., Chea, S., Lay, S., Kong, D., Nhek, S., Man, S., Doehl, J.S.P., Leang, R., Kry, H., Rekol, H., Oliveira, F., Minin, V.M., Manning, J.E. (2023). Determinants of exposure to Aedes mosquitoes: a comprehensive geospatial analysis in peri-urban Cambodia. Acta Tropica, 239, 106829. https://doi.org/10.1016/j.actatropica.2023.106829\nParker, D.M., Bruckner, T., Vieira, V.M., Medina, C., Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M. and Boden-Albala, B. (2021). Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. Emerging infectious diseases, 27(10), 2604. https://doi.org/10.3201/eid2710.210103"
   },
   {
     "objectID": "research.html#peer-reviewed-publications",
     "href": "research.html#peer-reviewed-publications",
     "title": "Research",
-    "section": "Peer-reviewed Publications",
-    "text": "Peer-reviewed Publications\nDogucu, M., Demirci, S., Bendekgey, H., Ricci, F. Z., & Medina, C. M. (2025). A Systematic Literature Review of Undergraduate Data Science Education Research. Journal of Statistics and Data Science Education, 1–20. https://doi.org/10.1080/26939169.2025.2486656\nRicci, F., Medina, C. M, & Dogucu, M. (2024). Designing and implementing an automated grading workflow for providing personalized feedback to open-ended data science assignments. Technology Innovations in Statistics Education, 15(1). http://dx.doi.org/10.5070/T5.1886\nParker, D.M., Medina, C., Bohl, J., Lon, C., Chea, S., Lay, S., Kong, D., Nhek, S., Man, S., Doehl, J.S.P., Leang, R., Kry, H., Rekol, H., Oliveira, F., Minin, V.M., Manning, J.E. (2023). Determinants of exposure to Aedes mosquitoes: a comprehensive geospatial analysis in peri-urban Cambodia. Acta Tropica, 239, 106829. https://doi.org/10.1016/j.actatropica.2023.106829\nParker, D.M., Bruckner, T., Vieira, V.M., Medina, C., Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M. and Boden-Albala, B. (2021). Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. Emerging infectious diseases, 27(10), 2604. https://doi.org/10.3201/eid2710.210103"
+    "section": "",
+    "text": "Medina, C. M., Palacios J. A., Minin, V. M. (2025). Accounting for reporting delays in real-time phylodynamic analyses with preferential sampling. PLoS Computational Biology, 20(5): e1012970. https://doi.org/10.1371/journal.pcbi.1012970\nDogucu, M., Demirci, S., Bendekgey, H., Ricci, F. Z., & Medina, C. M. (2025). A Systematic Literature Review of Undergraduate Data Science Education Research. Journal of Statistics and Data Science Education, 1–20. https://doi.org/10.1080/26939169.2025.2486656\nRicci, F., Medina, C. M, & Dogucu, M. (2024). Designing and implementing an automated grading workflow for providing personalized feedback to open-ended data science assignments. Technology Innovations in Statistics Education, 15(1). http://dx.doi.org/10.5070/T5.1886\nParker, D.M., Medina, C., Bohl, J., Lon, C., Chea, S., Lay, S., Kong, D., Nhek, S., Man, S., Doehl, J.S.P., Leang, R., Kry, H., Rekol, H., Oliveira, F., Minin, V.M., Manning, J.E. (2023). Determinants of exposure to Aedes mosquitoes: a comprehensive geospatial analysis in peri-urban Cambodia. Acta Tropica, 239, 106829. https://doi.org/10.1016/j.actatropica.2023.106829\nParker, D.M., Bruckner, T., Vieira, V.M., Medina, C., Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M. and Boden-Albala, B. (2021). Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. Emerging infectious diseases, 27(10), 2604. https://doi.org/10.3201/eid2710.210103"
   },
   {
     "objectID": "research.html#packages",

@@ -5,13 +5,15 @@ execute:
 editor: source
 ---
 
-## Preprints
-
-**Medina, C. M.**, Palacios J. A., Minin, V. M. Quantifying and mitigating the impact of reporting delays of genetic sequences in real-time phylodynamic analyses. <https://arxiv.org/abs/2407.18432> accepted to be published in *PLOS Computational Biology*
-
 ## Peer-reviewed Publications
 
-Dogucu, M., Demirci, S., Bendekgey, H., Ricci, F. Z., & **Medina, C. M.** (2025). A Systematic Literature Review of Undergraduate Data Science Education Research. *Journal of Statistics and Data Science Education*, 1–20. <https://doi.org/10.1080/26939169.2025.2486656>
+**Medina, C. M.**, Palacios J. A., Minin, V. M. (2025). 
+Accounting for reporting delays in real-time phylodynamic analyses with preferential sampling. *PLoS Computational Biology*, 20(5): e1012970. 
+<https://doi.org/10.1371/journal.pcbi.1012970>
+
+Dogucu, M., Demirci, S., Bendekgey, H., Ricci, F. Z., & **Medina, C. M.** (2025). 
+A Systematic Literature Review of Undergraduate Data Science Education Research. *Journal of Statistics and Data Science Education*, 1–20. 
+<https://doi.org/10.1080/26939169.2025.2486656>
 
 Ricci, F., **Medina, C. M**, & Dogucu, M. (2024). 
 Designing and implementing an automated grading workflow for providing personalized feedback to open-ended data science assignments. 
