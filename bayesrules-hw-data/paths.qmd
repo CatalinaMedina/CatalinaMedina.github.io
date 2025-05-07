@@ -1,5 +1,0 @@
-Data from `bayesrules` package for homework
-
-[soda-vs-pop](pop-vs-soda.csv)
-
-[gorillas](gorillas.csv)
