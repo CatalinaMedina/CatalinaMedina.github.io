@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:catalmm1@uci.edu
+      href: mailto:catalina.medina@csuci.edu
     - icon: github
       text: GitHub
       href: https://github.com/CatalinaMedina
@@ -21,7 +21,9 @@ about:
 editor: source
 ---
 
-I am a UC Irvine Statistics PhD candidate and my research interests include:
+Starting August 2025 I will be an Assistant Professor of Data Science at [CSU Channel Islands](https://www.csuci.edu/)! 
+
+My research interests include:
 
 - Biostatistics
 - Bayesian methodology
@@ -30,4 +32,3 @@ I am a UC Irvine Statistics PhD candidate and my research interests include:
 
 My current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting.
 
-Starting Fall 2025 I will be an Assistant Professor of Data Science at [CSU Channel Islands](https://www.csuci.edu/)! 
