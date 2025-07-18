@@ -1,0 +1,67 @@
+---
+title: "Resources"
+execute: 
+  echo: false
+editor: source
+---
+
+## Resources for Finding Datasets for Education
+
+While it is important to teach statistics and data science with real data, it is not an easy task to find real data to demonstrate a specific concept.
+Below is a list of resources I have used or have had recommended to me for finding real data, and hopefully someone else can find it useful too!
+Please email me if you have any to add to this list.
+
+### Repositories From Professional Organizations for Teaching
+
+- [JEDI](https://causeweb.org/jedi/) JEDI-informed teaching of statistics
+- [SSDSE Dataset Repository](https://docs.google.com/spreadsheets/d/1tuCXok_y_zQpSDGssaypETf9lnB6nCh9XVoCiMaPCuc/edit?gid=591469695#gid=591469695)
+- [CAUSE Resource Library](https://www.causeweb.org/cause/resources/library?field_material_type_tid=104)
+- [Teaching of Statistics in the Health Sciences (TSHS) Resources Portal](https://www.causeweb.org/tshs/), a source for well-documented health-related datasets and teaching materials.
+- [WISE (Web Interface for Statistics Education)](http://wise.cgu.edu/helpful-links/data-sources/ ) has a collection of demonstrations and tutorials.
+
+### Published Research 
+
+- [Study Finds](https://studyfinds.org/) More accessible topics from a wide range of fields
+- Google News Health and Sciences Section
+- [ICPSR](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) International social research
+- [OSF open data repository](https://osf.io/) General platform for sharing research, data, materials
+- Journals such as [PLOS1](https://journals.plos.org/plosone/)
+
+
+### Other Repositories or Data Portals
+
+-  [UCI machine learning repository](https://archive.ics.uci.edu/) Machine learning
+- [Nationmaster](http://www.nationmaster.com/) portal to international economic, demographic and social data.
+- [Awesome Public Data Sets](https://github.com/caesar0301/awesome-public-datasets) by Xiaming Chen and other contributors
+- [Data and Story Library (DASL)](http://dasl.datadesk.com/)
+-   [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [General Social Survey](https://gss.norc.org/us/en/gss/get-the-data.html) American demographics, behaviors, and opinions (good for two categorical variables)
+- [Bikeshare data portal](https://www.bikeshare.com/data/)
+- [Data.gov](https://www.data.gov/)
+- [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+- [Edinburgh Open Data](https://edinburghopendata.info/)
+- [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://corgis-edu.github.io/corgis/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [NHS Scotland Open Data](https://www.opendata.nhs.scot/)
+- [IPUMS survey data from around the world](https://ipums.org/)
+- [Los Angeles Open Data](https://data.lacity.org/browse)
+- [NYC OpenData](https://opendata.cityofnewyork.us/)
+- [Open access to Scotland's official statistics](https://statistics.gov.scot/home)
+- [PRISM Data Archive Project](https://www.icpsr.umich.edu/icpsrweb/content/ICPSR/fenway.html)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- [UN data](http://data.un.org/)
+- [UK Government Data](https://data.gov.uk/)
+- [US Government Data](https://sctyner.github.io/static/presentations/Misc/GraphicsGroupISU/2018-11-16-us-govt-data.html)
+- [Youth Risk Behavior Surveillance System (YRBSS)](https://chronicdata.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/q6p7-56au)
+- [Rebecca Barter's List of Public Databases](https://rebeccabarter.com/blog/2023-03-28-data_sources)
+
+### Open Access Textbooks
+
+- Peter K. Dunn (2024). Scientific Research and Methodology: An introduction to quantitative research in science and health. <https://bookdown.org/pkaldunn/SRM-Textbook>
+- [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/)
+- [Open Intro Statistics](https://www.openintro.org/book/os/)
+
+### Other Ideas of Places to Look
+
+- [Singer 1990](https://www.tandfonline.com/doi/abs/10.1080/00031305.1990.10475726) suggests looking at published papers from local dissertations
