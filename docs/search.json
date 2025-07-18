@@ -35,13 +35,6 @@
     "text": "Grader\n\nUC Irvine\n\nIntroduction to Probability and Statistics for Computer Science (Stats 67) - undergraduate\n2020 Spring:\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Catalina Mari Medina",
-    "section": "",
-    "text": "Starting August 2025 I will be an Assistant Professor of Data Science at CSU Channel Islands!\nMy research interests include:\n\nBiostatistics\nBayesian methodology\nStochastic processes\nStatistics and data science education\n\nMy current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -68,5 +61,26 @@
     "title": "Research",
     "section": "COVID-19 Trends by UC Irvine website",
     "text": "COVID-19 Trends by UC Irvine website\nCreated and maintain animated maps of COVID-19 case incidence, tests, and positivity in Orange County for the COVID-19 Trends by UC Irvine website created by the UC Irvine COVID Awareness group."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catalina Mari Medina",
+    "section": "",
+    "text": "Starting August 2025 I will be an Assistant Professor of Data Science at CSU Channel Islands!\nMy research interests include:\n\nBiostatistics\nBayesian methodology\nStochastic processes\nStatistics and data science education\n\nMy current methodological work is in improvement of real-time phylodynamic inference methods to account for delays in sequence data reporting."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "While it is important to teach statistics and data science with real data, it is not an easy task to find real data to demonstrate a specific concept. Below is a list of resources I have used or have had recommended to me for finding real data, and hopefully someone else can find it useful too!\nIf you have any feedback to help improve this list or resources to add please let me know by filling out this brief Google Form.\n\n\n\nJEDI JEDI-informed teaching of statistics\nSSDSE Dataset Repository\nCAUSE Resource Library\nTeaching of Statistics in the Health Sciences (TSHS) Resources Portal, a source for well-documented health-related datasets and teaching materials.\nWISE (Web Interface for Statistics Education) has a collection of demonstrations and tutorials.\n\n\n\n\n\nStudy Finds More accessible topics from a wide range of fields\nGoogle News Health and Sciences Section\nICPSR International social research\nOSF open data repository General platform for sharing research, data, materials\nJournals such as PLOS1\n\n\n\n\n\nUCI machine learning repository Machine learning\nNationmaster portal to international economic, demographic and social data.\nAwesome Public Data Sets by Xiaming Chen and other contributors\nData and Story Library (DASL)\nAwesome public datasets\nGeneral Social Survey American demographics, behaviors, and opinions (good for two categorical variables)\nBikeshare data portal\nData.gov\nData is Plural\nEdinburgh Open Data\nCORGIS: The Collection of Really Great, Interesting, Situated Datasets\nGoogle Dataset Search\nHarvard Dataverse\nNHS Scotland Open Data\nIPUMS survey data from around the world\nLos Angeles Open Data\nNYC OpenData\nOpen access to Scotland’s official statistics\nPRISM Data Archive Project\nUCI Machine Learning Repository\nUN data\nUK Government Data\nUS Government Data\nYouth Risk Behavior Surveillance System (YRBSS)\nRebecca Barter’s List of Public Databases\n\n\n\n\n\nPeter K. Dunn (2024). Scientific Research and Methodology: An introduction to quantitative research in science and health. https://bookdown.org/pkaldunn/SRM-Textbook\nBayes Rules! An Introduction to Applied Bayesian Modeling\nOpen Intro Statistics\n\n\n\n\n\nSinger 1990 suggests looking at published papers from local dissertations"
+  },
+  {
+    "objectID": "resources.html#resources-for-finding-datasets-for-education",
+    "href": "resources.html#resources-for-finding-datasets-for-education",
+    "title": "Resources",
+    "section": "",
+    "text": "While it is important to teach statistics and data science with real data, it is not an easy task to find real data to demonstrate a specific concept. Below is a list of resources I have used or have had recommended to me for finding real data, and hopefully someone else can find it useful too!\nIf you have any feedback to help improve this list or resources to add please let me know by filling out this brief Google Form.\n\n\n\nJEDI JEDI-informed teaching of statistics\nSSDSE Dataset Repository\nCAUSE Resource Library\nTeaching of Statistics in the Health Sciences (TSHS) Resources Portal, a source for well-documented health-related datasets and teaching materials.\nWISE (Web Interface for Statistics Education) has a collection of demonstrations and tutorials.\n\n\n\n\n\nStudy Finds More accessible topics from a wide range of fields\nGoogle News Health and Sciences Section\nICPSR International social research\nOSF open data repository General platform for sharing research, data, materials\nJournals such as PLOS1\n\n\n\n\n\nUCI machine learning repository Machine learning\nNationmaster portal to international economic, demographic and social data.\nAwesome Public Data Sets by Xiaming Chen and other contributors\nData and Story Library (DASL)\nAwesome public datasets\nGeneral Social Survey American demographics, behaviors, and opinions (good for two categorical variables)\nBikeshare data portal\nData.gov\nData is Plural\nEdinburgh Open Data\nCORGIS: The Collection of Really Great, Interesting, Situated Datasets\nGoogle Dataset Search\nHarvard Dataverse\nNHS Scotland Open Data\nIPUMS survey data from around the world\nLos Angeles Open Data\nNYC OpenData\nOpen access to Scotland’s official statistics\nPRISM Data Archive Project\nUCI Machine Learning Repository\nUN data\nUK Government Data\nUS Government Data\nYouth Risk Behavior Surveillance System (YRBSS)\nRebecca Barter’s List of Public Databases\n\n\n\n\n\nPeter K. Dunn (2024). Scientific Research and Methodology: An introduction to quantitative research in science and health. https://bookdown.org/pkaldunn/SRM-Textbook\nBayes Rules! An Introduction to Applied Bayesian Modeling\nOpen Intro Statistics\n\n\n\n\n\nSinger 1990 suggests looking at published papers from local dissertations"
   }
 ]

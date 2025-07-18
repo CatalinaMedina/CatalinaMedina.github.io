@@ -9,7 +9,8 @@ editor: source
 
 While it is important to teach statistics and data science with real data, it is not an easy task to find real data to demonstrate a specific concept.
 Below is a list of resources I have used or have had recommended to me for finding real data, and hopefully someone else can find it useful too!
-Please email me if you have any to add to this list.
+
+If you have any feedback to help improve this list or resources to add please let me know by filling out this brief [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfLrVNyj_FgrXP5U-mnJM619WoYZOqymH4qnsWAV62AE9Tccg/viewform?usp=header).
 
 ### Repositories From Professional Organizations for Teaching
 

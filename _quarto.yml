@@ -13,6 +13,8 @@ website:
         text: Research
       - href: cv/cv-catalina-medina.pdf
         text: CV
+      - href: resources.qmd
+        text: Resources
     right:
       - icon: github
         href: https://github.com/CatalinaMedina/CatalinaMedina.github.io
