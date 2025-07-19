@@ -31,7 +31,7 @@ If you have any feedback to help improve this list or resources to add please le
 
 ### Other Repositories or Data Portals
 
--  [UCI machine learning repository](https://archive.ics.uci.edu/) Machine learning
+- [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/) Rdatasets is a collection of 3451 datasets which were originally distributed alongside the statistical software environment R and some of its add-on packages. The goal is to make these data more broadly accessible for teaching and statistical software development.
 - [Nationmaster](http://www.nationmaster.com/) portal to international economic, demographic and social data.
 - [Awesome Public Data Sets](https://github.com/caesar0301/awesome-public-datasets) by Xiaming Chen and other contributors
 - [Data and Story Library (DASL)](http://dasl.datadesk.com/)
@@ -50,7 +50,7 @@ If you have any feedback to help improve this list or resources to add please le
 - [NYC OpenData](https://opendata.cityofnewyork.us/)
 - [Open access to Scotland's official statistics](https://statistics.gov.scot/home)
 - [PRISM Data Archive Project](https://www.icpsr.umich.edu/icpsrweb/content/ICPSR/fenway.html)
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+-  [UCI machine learning repository](https://archive.ics.uci.edu/) Machine learning
 - [UN data](http://data.un.org/)
 - [UK Government Data](https://data.gov.uk/)
 - [US Government Data](https://sctyner.github.io/static/presentations/Misc/GraphicsGroupISU/2018-11-16-us-govt-data.html)
