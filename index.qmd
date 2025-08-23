@@ -21,7 +21,7 @@ about:
 editor: source
 ---
 
-Starting August 2025 I will be an Assistant Professor of Data Science at [CSU Channel Islands](https://www.csuci.edu/)! 
+Assistant Professor of Data Science at [California State University Channel Islands](https://www.csuci.edu/)
 
 My research interests include:
 

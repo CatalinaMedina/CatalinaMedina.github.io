@@ -21,7 +21,7 @@ toc-expand: false
 ### UC Irvine
 
 -   **Basic Statistics** (Stats 7) - *undergraduate*\
-    2022 Summer Session: [{{< fa desktop >}}](https://catalinamedina.github.io/uci-stats7-su22-website/)\
+    2022 Summer Session:\
     Introduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.
 
 ### University of Nevada, Reno

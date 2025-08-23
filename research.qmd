@@ -5,7 +5,13 @@ execute:
 editor: source
 ---
 
-## Peer-reviewed Publications
+## In Preparation for Publication
+
+**Medina, C. M.** & Minin, V. M. (2025). Inferring reporting delays from line list data for real-time phylodynamic inference of effective population size. [Chapter 4 of dissertation](https://www.proquest.com/docview/3241424008).
+
+**Medina, C. M.** & Dogucu, M. (2025). Engaging student with statistics through choice of data context on homework. [Chapter 5 of dissertation](https://www.proquest.com/docview/3241424008).
+
+## Peer-Reviewed Publications
 
 **Medina, C. M.**, Palacios J. A., Minin, V. M. (2025). 
 Accounting for reporting delays in real-time phylodynamic analyses with preferential sampling. *PLoS Computational Biology*, 20(5): e1012970. 
