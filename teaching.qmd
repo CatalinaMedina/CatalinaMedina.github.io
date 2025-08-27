@@ -4,6 +4,19 @@ editor: source
 toc-expand: false
 ---
 
+# CSU Channel Islands
+
+- **Introduction to Data Science** (DATA 200) - *undergraduate*\
+  Fall 2025: [{{< fa brands github >}}](https://github.com/csuci-data200/lectures)\
+  Foundations of the practice of data science. Exploration and implementation of the data science life cycle in locally relevant contexts. Emphasis on statistical thinking and computer programming required to collect, prepare and analyze data numerically, visually and algorithmically, and to ethically communicate findings. Introduction to machine learning. 
+  
+- **Statistical Models** (MATH 430) - *undergraduate*\
+  Fall 2025: [{{< fa brands github >}}](https://github.com/csuci-math430/lectures)\
+  Discussion of experimental design, sampling methods, data collection, and methods of data analysis related to scientific fields.
+
+# Past Teaching Experience
+
+
 ## Guest Lecturer
 
 ### CSU Long Beach
