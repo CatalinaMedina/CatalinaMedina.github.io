@@ -32,6 +32,7 @@ If you have any feedback to help improve this list or resources to add please le
 ### Other Repositories or Data Portals
 
 - [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/) Rdatasets is a collection of 3451 datasets which were originally distributed alongside the statistical software environment R and some of its add-on packages. The goal is to make these data more broadly accessible for teaching and statistical software development.
+- [Connecting Educators with Industry](https://docs.google.com/spreadsheets/d/1_FDKVZxh6bSLHYsfbUYVPwdRZFUkFxLmS_uenFPN4as/edit?usp=sharing) Connecting industry statisticians and educators needing field-specific teaching examples
 - [Nationmaster](http://www.nationmaster.com/) portal to international economic, demographic and social data.
 - [Awesome Public Data Sets](https://github.com/caesar0301/awesome-public-datasets) by Xiaming Chen and other contributors
 - [Data and Story Library (DASL)](http://dasl.datadesk.com/)
