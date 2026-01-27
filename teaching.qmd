@@ -6,16 +6,24 @@ toc-expand: false
 
 # CSU Channel Islands
 
-- **Introduction to Data Science** (DATA 200) - *undergraduate*\
-  Fall 2025: [{{< fa brands github >}}](https://github.com/csuci-data200/lectures)\
+- **Introduction to Data Science** (DATA 200)\
+  Spring 2026: [Syllabus](https://docs.google.com/document/d/148lpz-vpAX8LIx_GxwIQjmcQJIawsVZOSq8nEV0YZPY/edit?usp=sharing), [Lectures {{< fa brands github >}}](https://github.com/csuci-data200-spring2026/lectures)\
+  Fall 2025: [Syllabus](https://docs.google.com/document/d/1iqrVrfYycfpV3MnY97QQmcw7qq57TDBKslZnU6VvFKU/edit?usp=sharing), [Lectures {{< fa brands github >}}](https://github.com/csuci-data200/lectures)\
   Foundations of the practice of data science. Exploration and implementation of the data science life cycle in locally relevant contexts. Emphasis on statistical thinking and computer programming required to collect, prepare and analyze data numerically, visually and algorithmically, and to ethically communicate findings. Introduction to machine learning. 
   
-- **Statistical Models** (MATH 430) - *undergraduate*\
-  Fall 2025: [{{< fa brands github >}}](https://github.com/csuci-math430/lectures)\
+- **Elementary Statistics** (MATH 201)\
+  Spring 2026 [Syllabus](https://docs.google.com/document/d/1R5frq-VUGpNhoZQorHk-rTARcs5qt4Gy3181Oz51_Vw/edit?usp=sharing)\
+  Critical reasoning using a quantitative and statistical, problem-solving approach to solving real-world problems. Topics include: probability and statistics, sample data, probability and empirical data distributions, sampling techniques, estimation and hypothesis testing, ANOVA, and correlation and regression analysis. Students will use standard statistical software to analyze real-world and simulated data.
+  
+- **Probability and Statistics** (MATH 352)\
+  Spring 2026: [Syllabus](https://docs.google.com/document/d/1aSCkyVWfp9vKyGs5BbnEG26AG2fV8UUW14saw36VyWk/edit?usp=sharing)\
+  Critical reasoning using a quantitative and statistical, problem-solving approach to solving real-world problems. Topics include: probability and statistics, sample data, probability and empirical data distributions, sampling techniques, estimation and hypothesis testing, ANOVA, and correlation and regression analysis. Students will use standard statistical software to analyze real-world and simulated data.
+  
+- **Statistical Models** (MATH 430)\
+  Fall 2025: [Syllabus](https://docs.google.com/document/d/1mgDjIgYG-hoV6fMIc6Yw9dvmGBToZOA-V5c0U1OUJx8/edit?usp=sharing), [Lectures {{< fa brands github >}}](https://github.com/csuci-math430/lectures)\
   Discussion of experimental design, sampling methods, data collection, and methods of data analysis related to scientific fields.
 
 # Past Teaching Experience
-
 
 ## Guest Lecturer
 
@@ -33,56 +41,15 @@ toc-expand: false
 
 ### UC Irvine
 
--   **Basic Statistics** (Stats 7) - *undergraduate*\
+-   **Basic Statistics** (Stats 7) \
     2022 Summer Session:\
     Introduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.
 
 ### University of Nevada, Reno
 
--   **Intermediate Algebra** (Math 96) - *undergraduate*\
+-   **Intermediate Algebra** (Math 96)\
     2019 Summer:\
     Basic properties of the real numbers; standard algebraic techniques, including exponents, factoring, fractions, radicals; problem solving; linear and quadratic equations; the concept of graphing.
--   **Elementary Algebra** (Math 95) - *undergraduate*\
+-   **Elementary Algebra** (Math 95)\
     2019 Summer:\
     Preparation for Intermediate Algebra. Topics include the fundamental operations on real numbers, inequalities in one variable, polynomials, integer exponents, and solving quadratic equations by factoring.
-
-## Teaching assistant
-
-### UC Irvine
-
--   **Irvine Summer Institute in Biostatistics and Undergraduate Data Science** (ISI-BUDS) - *undergraduate*\
-    2023 & 2022 Summer: [{{< fa link >}}](https://www.stat.uci.edu/isi-buds/)\
-    ISI-BUDS is a six-week summer program introducing undergraduate students to modern methodology and practice of biostatistics and data science.
-    The program highlights applications in cutting edge biomedical research, trains students in fundamentals of biostatistics, data science, and computing, and culminates in a team project co-supervised by statisticians and biomedical scientists.
-
--   **Statistical Methods for Data Analysis I** (Stats 110) - *undergraduate*\
-    2021 Summer:\
-    Introduction to statistical methods for analyzing data from experiments and surveys.
-    Methods covered include two-sample procedures, analysis of variance, simple and multiple linear regression.\
-
--   **Introduction to Probability and Statistics I** (Stats 120A) - *undergraduate*\
-    2020 Summer:\
-    Introduction to basic principles of probability and statistical inference.
-    Axiomatic definition of probability, random variables, probability distributions, expectation.\
-
--   **Introduction to Probability and Statistics for Computer Science** (Stats 67) - *undergraduate*\
-    2020 Spring:\
-    Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.\
-
--   **Statistical Methods for Data Analysis II** (Stats 111) - *undergraduate*\
-    2019 Winter:\
-    Introduction to statistical methods for analyzing data from surveys or experiments.
-    Emphasizes application and understanding of methods for categorical data including contingency tables, logistic and Poisson regression, loglinear models.\
-
--   **Introduction to Biological Statistics** (Stats 8) - *undergraduate*\
-    2019 Fall:\
-    Introductory statistical techniques used to collect and analyze experimental and observational data from health sciences and biology.
-    Includes exploration of data, probability and sampling distributions, basic statistical inference for means and proportions, linear regression, and analysis of variance
-
-## Grader
-
-### UC Irvine
-
--   **Introduction to Probability and Statistics for Computer Science** (Stats 67) - *undergraduate*\
-    2020 Spring:\
-    Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
