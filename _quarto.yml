@@ -11,7 +11,7 @@ website:
         text: Teaching
       - href: research.qmd
         text: Research
-      - href: cv/cv-catalina-medina.pdf
+      - href: linked-files/cv-catalina-medina.pdf
         text: CV
       - href: resources.qmd
         text: Resources

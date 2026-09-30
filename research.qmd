@@ -5,6 +5,14 @@ execute:
 editor: source
 ---
 
+## Research Projects With Students
+
+### 2026 Summer Undergraduate Research Fellows (SURF) program.
+
+Morgan Bohman and Dylan Wikel worked with me during the [2026 SURF program](https://www.csuci.edu/academics/student-research/opportunities/surf-summer-research/index.html) on research examining how preferential sampling and delayed sequence reporting affect real-time infectious disease modeling, comparing four different models through simulation. 
+
+- They presented their work at the 2026 SURF Student Research Showcase. [Exploring the Effects of Preferential Sampling and Delayed Data on Real-Time Infectious Disease Modeling Poster ](linked-files/2026-surf-phylo-poster.pdf).
+
 ## In Preparation for Publication
 
 **Medina, C.** & Dogucu, M. (2026). Engaging students with statistics through choice of data context on homework. [arXiv:2603.04541](https://arxiv.org/abs/2603.04541).
@@ -34,6 +42,7 @@ Determinants of exposure to Aedes mosquitoes: a comprehensive geospatial analysi
 Parker, D.M., Bruckner, T., Vieira, V.M., **Medina, C.**, Minin, V.N., Felgner, P.L., Dratch, A., Zahn, M., Bartell, S.M. and Boden-Albala, B. (2021). Predictors of test positivity, mortality, and seropositivity during the early coronavirus disease epidemic, Orange County, California, USA. 
 *Emerging infectious diseases*, 27(10), 2604.
 <https://doi.org/10.3201/eid2710.210103>
+
 
 ## Packages
 
